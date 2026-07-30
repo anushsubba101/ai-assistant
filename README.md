@@ -100,3 +100,5 @@ allowlist specific commands, don't allow arbitrary execution).
 - **Stage 4:** Wake-word detection for always-on listening (Porcupine).
 - **Stage 5:** More tools — smart home (Home Assistant API), OS automation,
   proactive reminders.
+
+
